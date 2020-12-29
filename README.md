@@ -19,6 +19,7 @@
 | Eunbee (Andrea) Jiang | eunbee.jang@mail.mcgill.ca |
 | Jintao Guo | jintao.guo@mail.mcgill.ca |
 | Marc-Antoine Ouimet | marc-antoine.ouimet@mail.mcgill.ca |
+| Karine Song | karine.song@mail.mcgill.ca |
 
 
 ## TA Office Hours
