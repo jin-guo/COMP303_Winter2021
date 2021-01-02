@@ -60,15 +60,16 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 ## Assessment and Evaluation (Updated):
 
-|  Assessment Method | When | Weight |
+|  Assessment Method | Format | Weight |
 | :---: | :---: | :---: |
-|  Participation | online (during or after lecture) | 10% |
-|  Lab tests | 3 sessions (Location TR 3120 or Online. Schedule can be viewed [here] |
+|  Participation | Quiz | 10% |
+|  Peer Assessment | GitLab | 15% (5*3) |
+|  Design Activities | GitLab and Discord (TBD) | 75% (18*3+21) |
 
  
 - Due to the remote teaching complication, I won't require you to attend the live lectures even though it is recommended. If you are not able to attend the live lectures, please make sure to follow the recordings afterward and complete the quizzes. It will count for your participation grades.
 - Our TA will try their best to support your learning. But considering this is a big class – many of you will have similar questions or concerns and many of you have will answers to other people’s questions, we encourage you to discuss your questions about the lectures and exercises online;
-- The participation during the class and the online discussion will count 10% of your final grades; The top 20% contributors for the online discussions will gain bonus credits based on the amount of contribution, up to 3%;
+- The participation during the class and the online discussion will count 10% of your final grades; The top 20% contributors for the online discussions will gain bonus credits bdisased on the amount of contribution, up to 3%;
 - Every module of the lecture will come with [exercises provided by the textbook](https://github.com/prmr/DesignBook). Those are for your practice and will not be graded. Instead, your practical skills will be evaluated through 4 lab tests that count 20% of your final grades. You are responsible to book the slot of lab test for each session in advance with the TAs.
 - Missing any of the lab test sessions, midterm or final exam will result zero grade for that assessment.
 - Any form of plagiarism, cheating is strictly banned during midterm or final exam. Integrity is crucial to this course and your future career. Any violation against academic integrity will be taken very seriously. For more information, please refer [here](https://www.mcgill.ca/students/srr/academicrights/integrity).
@@ -105,5 +106,5 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |24 |  8 Apr | Concurrency - 2 | | |
 |25 |  13 Apr | Software Engineering Ethics and Wrap-up | |
 
-## Survey links
+## Quiz links
 
