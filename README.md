@@ -6,7 +6,7 @@
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Live Lecutre Date and Time    | TR 1:05 pm - 2:25 pm | 
 | Lecture Link and Recordings | myCourses |
-| Assignments and Forum | GitLabs |
+| Assignments and Forum | GitLab and Discord |
 
 ## Teaching Assistant Team
 
