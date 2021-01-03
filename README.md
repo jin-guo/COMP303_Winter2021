@@ -96,7 +96,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |17	|  11 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | |
 |18	|  16 Mar | Inheritance - 2 | SD: Chapter 7, EJ:Item 18| [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md)|  Activity 5 Release|
 |19 |  18 Mar | Content Review (by TAs) | |  | 
-|20 |  23 Mar | Inversion of Control - 1 |SD: Chapter 8 (8.1-8.7)| [Exercise 1-7 in SD: Chapter 8] | |
+|20 |  23 Mar | Inversion of Control - 1 |SD: Chapter 8 (8.1-8.7)| [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | |
 |21 |  25 Mar | Inversion of Control - 2 |SD: Chapter 8 (8.1-8.7)| [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)| Activity 6 Release| 
 |21 |  30 Mar | Inversion of Control - 3  | | | |
 |22 |  1 Apr | TBD | | | | 
