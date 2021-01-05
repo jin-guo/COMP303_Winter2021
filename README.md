@@ -6,7 +6,7 @@
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Live Lecture Date and Time    | TR 1:05 pm - 2:25 pm | 
 | Lecture Link and Recordings | myCourses |
-| Assignments and Forum | GitLab and Discord |
+| Office Hour and Discussion Forum | Discord |
 
 ## Teaching Assistant Team
 
@@ -60,11 +60,11 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 ## Assessment and Evaluation (Updated):
 
-|  Assessment Method | Format | Weight |
-| :---: | :---: | :---: |
-|  Participation | Quiz | 10% |
-|  Peer Assessment | GitLab | 15% (5*3) |
-|  Design Activities | GitLab and Discord (TBD) | 75% (18*3+21) |
+|  Assessment Method | Weight |
+| :---: | :---: |
+|  Participation | 10% |
+|  Peer Assessment | 15% (5*3) |
+|  Design Activities | 75% (18*3+21) |
 
  
 - Due to the remote teaching complication, I won't require you to attend the live lectures even though it is recommended. If you are not able to attend the live lectures, please make sure to follow the recordings afterward and complete the quizzes. It will count for your participation grades.
