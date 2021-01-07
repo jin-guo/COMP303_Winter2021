@@ -12,7 +12,7 @@
 
 | Name | Email Address |
 | :---: | :---: |
-| Mathieu Nassif | mathieu.nassif@mail.mcgill.ca |
+| Mathieu Nassif | see contact information on the private GitLab repository |
 | Deeksha Arya | deeksha.arya@mail.mcgill.ca |
 | Meng Cao | meng.cao@mail.mcgill.ca |
 | Jazlyn Hellman | jazlyn.hellman@mail.mcgill.ca |
