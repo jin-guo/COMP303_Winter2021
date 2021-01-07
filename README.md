@@ -78,27 +78,27 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 | Lecture | Date | Content | Reading | Exercise | Others |
 | :---: |:---:| :---: | :---: | :---: | :---: |
-|1	|  7 Jan  | Introduction | SD: Chapter 1| [Exercise 0](https://github.com/jin-guo/COMP303_Winter2020/blob/master/M0-Exercise.md) <br>[Exercise in SD: Chapter 1](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter1.md) | |
-|2	|  12 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md)| |
-|3	|  14 Jan | Encapsulation - 2 | EJ: Item 15-17  | [Exercise 6-9 in SD: Chapter 2 <br>(omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) | Activity 1 Release|
-|4	|  19 Jan | Types and Polymorphism - 1 | SD: Chapter 3 |  [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
-|5	|  21 Jan | Types and Polymorphism - 2 | EJ: Item 14 |  [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | |
-|6	|  26 Jan | Types and Polymorphism - 3 | |  [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) | Activity 2 Release|
-|7	|  28 Jan | Object State - 1 | SD: Chapter 3, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)| |
-|8	|  2 Feb | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)| |
+|1	|  7 Jan  | Introduction | SD: Chapter 1| | |
+|2	|  12 Jan | Encapsulation - 1 | SD: Chapter 2 | | |
+|3	|  14 Jan | Encapsulation - 2 | EJ: Item 15-17  | | Activity 1 Release|
+|4	|  19 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | | |
+|5	|  21 Jan | Types and Polymorphism - 2 | EJ: Item 14 | | |
+|6	|  26 Jan | Types and Polymorphism - 3 | | | Activity 2 Release|
+|7	|  28 Jan | Object State - 1 | SD: Chapter 3, EJ: Item 10, 11 | | |
+|8	|  2 Feb | Object State - 2 | EJ: Item 1, 3 | | |
 |9	|  4 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25| | |
 |10  |  9 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | | Activity 3 Release|
 |11	|  11 Feb | Content Review (by TAs)| | |
-|12	|  16 Feb | Unit Testing - 1 |  SD: Chapter 5  | [Exercise 1-3 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | |
-|13	|  18 Feb | Unit Testing - 2 | | [Exercise 4-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) | |
-|14	|  23 Feb | Composition - 1 | SD: Chapter 6 | [Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | Activity 4 Release |
+|12	|  16 Feb | Unit Testing - 1 |  SD: Chapter 5  | | |
+|13	|  18 Feb | Unit Testing - 2 | | | |
+|14	|  23 Feb | Composition - 1 | SD: Chapter 6 | | Activity 4 Release |
 |15	|  25 Feb | Composition - 2| | | |
-|16	|  9 Mar | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) | |
-|17	|  11 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) | |
-|18	|  16 Mar | Inheritance - 2 | SD: Chapter 7, EJ:Item 18| [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md)|  Activity 5 Release|
+|16	|  9 Mar | Composition - 3 | SD: Chapter 6 | | |
+|17	|  11 Mar | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| | |
+|18	|  16 Mar | Inheritance - 2 | SD: Chapter 7, EJ:Item 18| |  Activity 5 Release|
 |19 |  18 Mar | Content Review (by TAs) | |  | 
-|20 |  23 Mar | Inversion of Control - 1 |SD: Chapter 8 (8.1-8.7)| [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md) | |
-|21 |  25 Mar | Inversion of Control - 2 |SD: Chapter 8 (8.1-8.7)| [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)| Activity 6 Release| 
+|20 |  23 Mar | Inversion of Control - 1 |SD: Chapter 8 (8.1-8.7)| | |
+|21 |  25 Mar | Inversion of Control - 2 |SD: Chapter 8 (8.1-8.7)| | Activity 6 Release| 
 |21 |  30 Mar | Inversion of Control - 3  | | | |
 |22 |  1 Apr | TBD | | | | 
 |23 |  6 Apr | TBD | | | |
