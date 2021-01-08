@@ -8,23 +8,21 @@
 | Lecture Link and Recordings | myCourses |
 | Office Hour and Discussion Forum | Discord |
 
-## Teaching Assistant Team
+## Teaching Assistant Team and Office Hour
 
-| Name | Email Address |
+| Name | Office Hour |
 | :---: | :---: |
-| Mathieu Nassif | see contact information on the private GitLab repository |
-| Deeksha Arya | deeksha.arya@mail.mcgill.ca |
-| Meng Cao | meng.cao@mail.mcgill.ca |
-| Jazlyn Hellman | jazlyn.hellman@mail.mcgill.ca |
-| Eunbee (Andrea) Jiang | eunbee.jang@mail.mcgill.ca |
-| Jintao Guo | jintao.guo@mail.mcgill.ca |
-| Marc-Antoine Ouimet | marc-antoine.ouimet@mail.mcgill.ca |
-| Karine Song | karine.song@mail.mcgill.ca |
-| Congming Liao | congming.liao@mail.mcgill.ca |
+| Mathieu Nassif | TBD |
+| Deeksha Arya | TBD |
+| Meng Cao | TBD |
+| Jazlyn Hellman | TBD |
+| Eunbee (Andrea) Jiang | TBD |
+| Jintao Guo | TBD |
+| Marc-Antoine Ouimet | TBD |
+| Karine Song | TBD |
+| Congming Liao | TBD |
 
-
-## TA Office Hours
-TBD
+The contact information of our TAs is on the private GitLab repository
 
 ## Description
 This course provides an in-depth introduction to the discipline of software design for building realistic and high-quality software applications. It will focus on object-oriented programming techniques, and cover topics related to managing software complexity and verifying that they work as expected. It will use Java for all the code examples and assignments. However, the considerations during the design process apply in all languages for practical software development.
